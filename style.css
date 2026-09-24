@@ -55,7 +55,7 @@ body {
 }
 
 .navbar a:hover {
-    color: #e7b75b;
+    color: #759b6d;
 }
 
 .hero {
@@ -235,7 +235,7 @@ h3 {
 
     border-radius: 15px;
 
-    border-top: 4px solid #e7b75b;
+    border-top: 4px solid #759b6d;
 }
 
 .skill-card:last-child {
@@ -328,7 +328,7 @@ h3 {
 }
 
 .contact-section a {
-    color: #b47c1e;
+    color: #759b6d;
 
     font-weight: bold;
 
